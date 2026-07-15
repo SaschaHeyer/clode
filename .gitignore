@@ -1,0 +1,14 @@
+# Arduino CLI / IDE build artifacts
+build/
+.build/
+sketch.json
+
+# ESP32 specific / build cache
+*.elf
+*.bin
+*.hex
+*.map
+
+# OS specific files
+.DS_Store
+Thumbs.db
